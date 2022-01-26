@@ -1,5 +1,5 @@
 /*
-Projet de Programmation logique 2021/2022 : MasterMind par l'algorithme de Knuth 
+Projet de Programmation logique 2021/2022 : MasterMind par l'algorithme de Knuth  par Tchinda Abbas
 
 
 
